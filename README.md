@@ -25,7 +25,6 @@ S4 cross-cloud pivot. It does not touch any real tenant and does not measure any
 - `src/build_report.js` builds the Word report (needs Node.js and the `docx` package; optional)
 - `results/` results.json and results_sens.json from our full run (30 seeds)
 - `figures/` figures used in the report
-- `report/` G22.pdf and the editable Word file
 - `run.bat` one-click quick demo on Windows
 - `build_exe.bat` builds `dist\token_replay_sim.exe` on Windows
 - `requirements.txt` Python packages
